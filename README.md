@@ -1,6 +1,6 @@
 Visual Media Expert & Data Science Graduate
 
-## =Interests
+## Interests
 - Data Science and Machine Learning
 - Natural Language Processing (NLP)
 - Data Visualization
